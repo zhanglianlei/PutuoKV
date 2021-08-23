@@ -1,2 +1,2 @@
 # minikv
-This is a simple mini KV store system.
+This is a open source mini key-value(KV) store engine.
