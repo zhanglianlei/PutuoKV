@@ -1,2 +1,2 @@
-# minikv
-This is a open source mini key-value(KV) store engine.
+# PutuoKV
+This is a open source key-value(KV) store engine. It is named as PutuoKV.
